@@ -11,10 +11,7 @@ Entrega do checkpoint com duas tarefas independentes:
 
 Arquivo: `aneel_classificacao_orange.csv`
 
-Origem: SIGA/ANEEL. Cada linha representa um empreendimento de geração no Brasil. As entradas usadas foram `potencia_kw`, `latitude` e `longitude`; o alvo foi `fonte`.
-
-- Linhas: 3876
-- Ausentes: 0
+Origem: SIGA/ANEEL. Cada linha representa um empreendimento de geração no Brasil. As entradas usadas foram `potencia_kw`, `latitude` e `longitude`; o alvo foi `fonte`
 - Classes: Hidráulica=1476, Solar=1200, Eólica=1200
 
 ### Regressão
